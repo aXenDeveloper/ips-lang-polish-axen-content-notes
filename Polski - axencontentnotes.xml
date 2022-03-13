@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language name="Polski" rtl="0">
- <app key="axencontentnotes" version="10000">
+ <app key="axencontentnotes" version="10003">
   <word key="__app_axencontentnotes" js="0">(aXen) Content Notes</word>
   <word key="modperms__axencontentnotes_notes" js="0">(aXen) Content Notes</word>
   <word key="menu__axencontentnotes_contentnotes" js="0">Notatki do zawartości</word>
@@ -25,6 +25,7 @@
   <word key="aXenContentNotes_can_notes_edit" js="0">Może edytować wszystkie notatki?</word>
   <word key="aXenContentNotes_can_notes_delete" js="0">Może usuwać wszystkie notatki?</word>
   <word key="notifications__axencontentnotes_notes" js="0">Notatki do zawartości</word>
+  <word key="notifications__aXenContentNotes_note_desc" js="0">Powiadomienia te są wysyłane, gdy otrzymasz notatkę do Twojej treści.</word>
   <word key="notifications__aXenContentNotes_new_note" js="0">%s dodał(a) %s notatkę do Twojej zawartości.</word>
   <word key="aXenContentNotes_something_wrong" js="1">Coś poszło nie tak. Spróbuj ponownie później.</word>
   <word key="aXenContentNotes_email_note" js="0">Notatka</word>
@@ -34,7 +35,7 @@
   <word key="aXenContentNotes_can_notes_anonymous" js="0">Może publikować anonimowe notatki?</word>
   <word key="notifications__aXenContentNotes_new_note_anonymous" js="0">%s dodał %s notatkę do Twojej zawartości.</word>
   <word key="email_aXenContentNotes_new_note_staff" js="0">%s dodał %s notatkę do Twojej zawartości.</word>
-  <word key="aXenContentNotes_front_anonymous" js="0">Opublikować notatkę anonimowo?</word>
+  <word key="aXenContentNotes_front_anonymous" js="0">Anonimowo?</word>
   <word key="aXenContentNotes_edited" js="0">Edytowano %s</word>
   <word key="aXenContentNotes_note_show_anyways" js="0">Tylko personel może zobaczyć autora notatki</word>
   <word key="aXenContentNotes_type_information" js="0">informacyjną</word>
@@ -50,5 +51,17 @@
   <word key="modlog__aXenContentNotes_note_add" js="0"><![CDATA[Dodano %s notatkę w <a href='%s'>%s zawartości</a>]]></word>
   <word key="modlog__aXenContentNotes_note_edit" js="0"><![CDATA[Edytowano %s notatkę od %s w <a href='%s'>%s zawartości</a>]]></word>
   <word key="modlog__aXenContentNotes_note_delete" js="0"><![CDATA[Usunięto %s notatkę od %s w <a href='%s'>%s zawartości</a>]]></word>
+  <word key="aXenContentNotes_can_notes_view" js="0">Może widzieć wszystkie notatki?</word>
+  <word key="aXenContentNotes_front_anonymous_desc" js="0">Tylko moderatorzy będą mogli zobaczyć autora notatki.</word>
+  <word key="aXenContentNotes_front_visible" js="0">Widoczność</word>
+  <word key="aXenContentNotes_front_visible_desc" js="0">Moderatorzy globalni i Ty możecie zobaczyć tę notatkę.</word>
+  <word key="aXenContentNotes_front_visible_0" js="0">Wybrane grupy</word>
+  <word key="aXenContentNotes_front_visible_1" js="0">Moderatorzy forum</word>
+  <word key="aXenContentNotes_front_visible_2" js="0">Autor zawartości</word>
+  <word key="aXenContentNotes_front_groups" js="0">Grupy</word>
+  <word key="aXenContentNotes_permissions_visible" js="0">Widoczność</word>
+  <word key="aXenContentNotes_permissions_visible_groups" js="0">Dla wybranych grup</word>
+  <word key="aXenContentNotes_permissions_visible_mods" js="0">Dla moderatorów forum</word>
+  <word key="aXenContentNotes_permissions_visible_private" js="0">Dla treści autora</word>
  </app>
 </language>
