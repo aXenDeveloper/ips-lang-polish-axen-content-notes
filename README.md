@@ -2,7 +2,7 @@
 
 ## 🏷️ Requirements
 
-- [(aXen) Content Notes 1.2.0](https://invisioncommunity.com/files/file/10065-axen-content-notes/)
+- [(aXen) Content Notes 1.2.0](https://forum.invisionize.pl/files/file/838-axen-content-notes/)
 
 ## 🧰 Install and update
 
